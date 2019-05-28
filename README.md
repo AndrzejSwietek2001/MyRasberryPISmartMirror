@@ -1,4 +1,3 @@
-![MagicMirror²: The open source modular smart mirror platform. ](.https://github.com/MichMich/MagicMirror/blob/master/.github/header.pnghttps://github.com/MichMich/MagicMirror/blob/master/.github/header.png)
 
 
 
