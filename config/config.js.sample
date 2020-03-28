@@ -13,7 +13,7 @@ var config = {
 	                                                       // or IPv4 range of 192.168.3.0 --> 192.168.3.15 use CIDR format :
 	                                                       // ["127.0.0.1", "::ffff:127.0.0.1", "::1", "::ffff:192.168.3.0/28"],
 
-	language: "en",
+	language: "pl",
 	timeFormat: 24,
 	units: "metric",
 
@@ -50,7 +50,7 @@ var config = {
 			module: "currentweather",
 			position: "top_right",
 			config: {
-				location: "New York",
+				location: "Kraków",
 				locationID: "",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
 				appid: "f361548346309853bcdf1d306383e153"
 			}
@@ -60,7 +60,7 @@ var config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
-				location: "New York",
+				location: "Kraków",
 				locationID: "5128581",  //ID from https://openweathermap.org/city
 				appid: "f361548346309853bcdf1d306383e153"
 			}
