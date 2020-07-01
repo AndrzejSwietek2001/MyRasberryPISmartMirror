@@ -12,7 +12,7 @@ Module.register("compliments", {
 				
 				"Enjoy your day!",
 				"How was your sleep?",
-				"Dziendoberek na Spacerek!"
+				"Dzień doberek na Spacerek!"
 			],
 			afternoon: [
 				"How have you been doing?",
@@ -22,7 +22,8 @@ Module.register("compliments", {
 			evening: [
 				"Wow, you look hot!",
 				"You look nice!",
-				"Dobrej nocki!"
+				"Dobrej nocki!",
+				"Karaluchy pod pouchy"
 			]
 		},
 		updateInterval: 30000,
