@@ -72,7 +72,7 @@ var config = {
 				feeds: [
 					{
 						title: "New York Times",
-						url: "http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+						url: "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml"
 					}
 				],
 				showSourceTitle: true,
