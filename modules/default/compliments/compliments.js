@@ -5,15 +5,17 @@ Module.register("compliments", {
 	defaults: {
 		compliments: {
 			anytime: [
-				"Dziendoberek na Spacerek!"
+				"Elo melo 3 2 0",
+				"Przybij ziomka"
 			],
 			morning: [
-				"Good morning, handsome!",
+				
 				"Enjoy your day!",
-				"How was your sleep?"
+				"How was your sleep?",
+				"Dziendoberek na Spacerek!"
 			],
 			afternoon: [
-				"Hello, beauty!",
+				"How have you been doing?",
 				"Jak w szkole ?!",
 				"Looking good today!"
 			],
