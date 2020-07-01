@@ -51,7 +51,7 @@ var config = {
 			position: "top_right",
 			config: {
 				location: "Kraków",
-				locationID: "",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
+				locationID: "6690166",  //ID from http://bulk.openweathermap.org/sample/; unzip the gz file and find your city
 				appid: "f361548346309853bcdf1d306383e153"
 			}
 		},
